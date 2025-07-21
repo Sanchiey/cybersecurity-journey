@@ -1,2 +1,2 @@
 # Fortinet Notes
-This folder will contain my notes and progress for Fortinet
+This folder contains my progress through Fortinet cybersecurity training, including FortiGate operator labs, NSE modules, and hands-on simulations.
