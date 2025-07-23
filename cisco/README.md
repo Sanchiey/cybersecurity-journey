@@ -1,31 +1,31 @@
-# 📘 Cisco Networking Academy Notes
+# 🛡️ Cisco: Introduction to Cybersecurity
 
-Welcome to the **Cisco** folder. This section documents my journey through Cisco's official training on the **Introduction to Cybersecurity**, as I prepare for a career as a Junior Cybersecurity Analyst.
-
----
-
-## ✅ Courses in Progress:
-
-- **Introduction to Cybersecurity** – SkillsForAll / NetAcad
-- **CCNA (Upcoming)**
+Completion Date: July 23, 2025  
+Issued By: Cisco Networking Academy  
+Certificate: [View Certificate](../certificates/cisco_intro_to_cybersecurity.pdf)
 
 ---
 
-## 📚 Completed Modules:
+## 💡 Key Concepts Learned
 
-| Module | Title | Status | Date |
-|--------|-------|--------|------|
-| 1 | The World of Cybersecurity | ✅ | TBD |
-| 2 | Attacks, Concepts & Techniques | ✅ | July 19, 2025 |
-| 3 | Protecting Your Data and Privacy | ⏳ | In Progress |
-
----
-
-📁 Sub-files (to be added):
-- `module1-world-of-cybersecurity.md`
-- `module2-attacks.md`
-- `module3-data-protection.md`
+- Cybersecurity fundamentals and digital risks
+- CIA Triad: Confidentiality, Integrity, Availability
+- Common cyber threats: malware, phishing, social engineering
+- Human behavior as an attack surface
+- Role of cybersecurity professionals
 
 ---
 
-Stay tuned as I continue to build and learn.
+## 🔧 Tools and Technologies
+
+- Multi-factor authentication (MFA)
+- Password managers
+- Firewalls and antivirus
+- Basic network protections
+
+---
+
+## 📈 Outcome
+
+✅ Completed course with full certification  
+🛡️ Prepared for deeper cybersecurity essentials and blue team training
