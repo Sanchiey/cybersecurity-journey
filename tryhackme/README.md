@@ -11,7 +11,7 @@ This folder contains my progress, write-ups, and notes from **TryHackMe** rooms 
 | Introduction to Offensive Security | Red Team | ✅ | July 18, 2025 |
 | Hacking a Website Legally | Legal + Web Attacks | ✅ | July 18, 2025 |
 | Introduction to Defensive Security | Blue Team | ✅ | July 19, 2025 |
-| Introduction to Network Security | Blue Team | ⏳ | In Progress |
+| Introduction to Network Security | Blue Team | ✅ | JULY 23, 2025 |
 
 ---
 
