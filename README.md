@@ -29,7 +29,7 @@ My notes and projects related to CS50 are documented in the [`cs50/`](cs50/) fol
 - Focused on **Identity and Access Management (IAM)** principles  
 - Collaborated on policy design, user provisioning, and access governance  
 - Delivered technical documentation and a strategic PowerPoint presentation
-documents in ['Forage/'](forage/)folder
+documents in ['Forage/'](Forage/)folder
 
 ### 6. Daily Cyber Logbook  
 To maintain consistency and track progress, I keep daily learning reflections, plans, and logs in the [`cyber-logbook/`](cyber-logbook/) folder.
