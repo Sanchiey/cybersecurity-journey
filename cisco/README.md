@@ -2,7 +2,7 @@
 
 Completion Date: July 23, 2025  
 Issued By: Cisco Networking Academy  
-Certificate: attached on top
+Certificate: attached in cisco folder
 
 ---
 
