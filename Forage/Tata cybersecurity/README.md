@@ -3,7 +3,6 @@
 Completed: July 24, 2025  
 Platform: Forage  
 Company: Tata Consultancy Services  
-Certificate: [view certificate](../certificate.pdf)
 
 ---
 
