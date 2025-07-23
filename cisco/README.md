@@ -2,7 +2,7 @@
 
 Completion Date: July 23, 2025  
 Issued By: Cisco Networking Academy  
-Certificate: [View Certificate](../certificates/cisco_intro_to_cybersecurity.pdf)
+Certificate: attached on top
 
 ---
 
