@@ -13,7 +13,12 @@ I am progressing through topics including Offensive Security, Defensive Security
 My detailed write-ups and reflections for each room are stored in the [`tryhackme/`](tryhackme/) folder.
 
 ### 2. Cisco Networking Academy  
-To build a strong foundation in networking and cybersecurity concepts, I am studying official Cisco courses such as *Introduction to Cybersecurity*, *Attacks, Concepts & Techniques*, and preparing for CCNA certification.  
+Completed & certified in a foundational course on introduction to cybersecurity which introduced me to the core principles of cybersecurity:
+Cybersecurity fundamentals and digital risks
+CIA Triad: Confidentiality, Integrity, Availability
+Common cyber threats: malware, phishing, social engineering
+Human behavior as an attack surface
+Role of cybersecurity professionals
 My notes and completed modules are organized in the [`cisco/`](cisco/) folder.
 
 ### 3. Fortinet Cybersecurity Training  
