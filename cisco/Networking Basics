@@ -1,0 +1,36 @@
+Networking Basics 🌐
+	This module is part of my cyber-logbook and documents my completion of Cisco Networking Academy — Networking Basics.  
+	It builds the foundation required for cybersecurity and advanced networking skills.
+📌 Skills Gained
+o	Models & Concepts
+o	OSI and TCP/IP models
+o	Ports, protocols (HTTP, HTTPS, ICMP, DNS, DHCP, etc.)
+o	IP Addressing & Subnetting
+o	IPv4 addressing and subnet masks
+o	VLSM (Variable Length Subnet Masking)
+o	Designing IP address schemes
+o	Switching
+o	Ethernet frames and MAC addresses
+o	VLANs (Virtual LANs), access vs trunk ports
+o	Routing
+o	Static routes and default routes
+o	Intro to OSPF and BGP concepts
+o	IP Services
+o	DHCP configuration and relay
+o	DNS basics
+o	NAT and port forwarding
+o	Troubleshooting
+o	Tools: ping, traceroute, netstat, ss, ip route
+o	Diagnosing connectivity issues
+🛠️ Tools Used
+-	Cisco Packet Tracer  
+-	VirtualBox + Linux VMs  
+-	Wireshark  
+-	ipcalc / subnet calculators 
+📖 Reflection
+Networking Basics was a turning point in my cybersecurity journey.  
+o	Subnetting trained me in logical thinking and binary math.  
+o	VLANs and routing showed me how real-world networks separate and forward traffic.  
+o	Wireshark gave me visibility into how data flows across a network.  
+•	I can now confidently read packet captures, configure small networks, and troubleshoot connectivity issues.  
+•	This foundation prepares me for Networking Devices & Initial Configuration and, ultimately, my cybersecurity specialization.
